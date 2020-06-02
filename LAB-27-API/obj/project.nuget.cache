@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1yfxkmb9l9X56tl6pYcgYm9WYKy4gTLeBPJBdNHgD9xSw/NCzHSEnuOxm7qEr2bmc8Lf7Q4OqSlbJaqXRjOoJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jwors\\source\\repos\\LAB-27-API\\LAB-27-API\\LAB-27-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jwors\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
